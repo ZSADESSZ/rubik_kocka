@@ -27,10 +27,13 @@ p{
   text-align: right;
 }
 
+
 .erdekesseg{
-  font-size: 70%;
-  padding: 7px;
-  font-weight: normal;
+    font-size: 70%;
+    padding: 7px;
+    font-weight: normal;
+    background-color: gray;
+    font-style: italic;
 }
 
 li{
